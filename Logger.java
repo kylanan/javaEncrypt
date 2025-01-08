@@ -9,7 +9,7 @@ public class Logger {
         
         //get output file name and open in append mode
         System.out.print("Enter file name to write to: ");
-        String fileName = scnr.next();      //nextline?
+        String fileName = scnr.next();
 
         FileOutputStream outStream = new FileOutputStream(fileName, true);      //open in append mode
         PrintWriter writer = new PrintWriter(outStream);
