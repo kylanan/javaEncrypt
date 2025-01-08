@@ -1,7 +1,7 @@
 # javaEncrypt
 Simple encryption program for short messages, includes logger and output history
 
-Main file is Driver.java
+Compile all 3 java files, main file is "Driver.java"
 
 OPTIONS:
 Password: Enter a password to use for encrypting and decrypting. It is not saved to history.
